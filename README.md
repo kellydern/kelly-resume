@@ -1,6 +1,10 @@
 #### Project
 I created this resume using Claude.ai
 
+#### View
+You can view an example of my project here https://claude.site/artifacts/5c435a14-ba67-4c99-bb10-fe616da366dc
+
+
 #### Goals
 To understand how to use Github and layouts of websites
 
