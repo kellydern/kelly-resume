@@ -2,7 +2,12 @@
 I created this resume using Claude.ai
 
 #### View
-You can view an example of my project here https://claude.site/artifacts/5c435a14-ba67-4c99-bb10-fe616da366dc
+You can view an example of my project here <a ref="https://claude.site/artifacts/5c435a14-ba67-4c99-bb10-fe616da366dc"</a>
+
+
+https://github.com/user-attachments/assets/4ff408aa-5897-4737-801f-0efd3b2d9b02
+
+
 
 
 #### Goals
